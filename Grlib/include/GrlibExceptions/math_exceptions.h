@@ -1,0 +1,11 @@
+#pragma once
+#include "MathExceptions/BasisConverterException.h"
+#include "MathExceptions/BilinearFormException.h"
+#include "MathExceptions/CoordinateSystemException.h"
+#include "MathExceptions/DataTableException.h"
+#include "MathExceptions/LineException.h"
+#include "MathExceptions/MatrixException.h"
+#include "MathExceptions/PlaneException.h"
+#include "MathExceptions/PointException.h"
+#include "MathExceptions/VectorException.h"
+#include "MathExceptions/VectorSpaceException.h"
